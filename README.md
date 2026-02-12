@@ -30,7 +30,8 @@ Proje iki ana analiz modu sunar:
 
 ## 📊 Ekran Görüntüleri
 
-![Dashboard Genel Görünüm](screenshots/dashboard-yearly.png)
+<img width="1858" height="946" alt="resesyon istatistikler" src="https://github.com/user-attachments/assets/6407af8f-96f0-4bb6-8545-e79f3c67c698" />
+<img width="1859" height="948" alt="yıllık istatistikler" src="https://github.com/user-attachments/assets/1f3eaa48-d1d8-4a96-9725-712237611303" />
 
 ## ⚙️ Kurulum ve Çalıştırma
 
